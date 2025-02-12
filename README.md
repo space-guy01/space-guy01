@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">Hey there! I'm Arnav <img src="https://raw.githubusercontent.com/space-guy01/space-guy01/main/wave.gif" width="30px"></h1>
+<h1 align="center">Hey there! I'm StackOrigin <img src="https://raw.githubusercontent.com/space-guy01/space-guy01/main/wave.gif" width="30px"></h1>
 
 <p align="center">
   <b>Passionate Web Developer | Lifelong Learner | Problem Solver</b>
