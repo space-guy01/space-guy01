@@ -40,8 +40,6 @@
   📧 <b>Email:</b> arnavsince2009@gmail.com
 </p>
 
-<img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="5rem" alt="When someone actually messages me">
-
 ---
 
 <h2>🌟 Top Languages</h2>
