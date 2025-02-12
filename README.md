@@ -25,7 +25,7 @@
 <hr>
 
 <h2>📬 Connect with Me</h2>
-<p align="center">
+<p>
   <a href="mailto:arnavsince2009@gmail.com" style="font-size: 20px; font-weight: bold; color: #D14836; text-decoration: none;">📧 Email: arnavsince2009@gmail.com</a> <br><br>
   <a href="https://www.instagram.com/not_arnav_burman/" style="font-size: 20px; font-weight: bold; color: #E4405F; text-decoration: none;">📷 Instagram: @not_arnav_burman</a>
 </p>
