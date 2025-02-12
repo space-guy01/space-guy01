@@ -20,6 +20,12 @@
   <li>🤝 <b>I love collaborating!</b> Feel free to reach out.</li>
 </ul>
 
+<h2>📬 Contact Me</h2>
+<p>
+  <b>💬 Discord:</b> <code>space_guy001</code> <br>
+  📷 <b>Instagram:</b> <a href="https://www.instagram.com/not_arnav_burman">@not_arnav_burman</a> <br>
+  📧 <b>Email:</b> arnavsince2009@gmial.com
+</p>
 
 <h2>🌟 Top Languages</h2>
 <p align="center">
