@@ -26,8 +26,8 @@
 
 <h2>📬 Connect with Me</h2>
 <p align="center">
-  <a href="mailto:arnavsince2009@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.instagram.com/not_arnav_burman/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:arnavsince2009@gmail.com" style="font-size: 20px; font-weight: bold; color: #D14836; text-decoration: none;">📧 Email: arnavsince2009@gmail.com</a> <br><br>
+  <a href="https://www.instagram.com/not_arnav_burman/" style="font-size: 20px; font-weight: bold; color: #E4405F; text-decoration: none;">📷 Instagram: @not_arnav_burman</a>
 </p>
 
 <h2>🌟 Top Languages</h2>
