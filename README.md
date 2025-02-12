@@ -21,12 +21,6 @@
 </ul>
 
 
-<h2>📬 Connect with Me</h2>
-<p>
-  <span style="font-size: 20px; font-weight: bold; color: #D14836; text-decoration: none;">📧 Email: arnavsince2009@gmail.com</span> <br><br>
-  <a href="https://www.instagram.com/not_arnav_burman/" style="font-size: 20px; font-weight: bold; color: #E4405F; text-decoration: none;">📷 Instagram: @not_arnav_burman</a>
-</p>
-
 <h2>🌟 Top Languages</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=space-guy01&layout=compact&theme=dark" alt="Top Languages">
