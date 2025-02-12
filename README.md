@@ -40,7 +40,7 @@
   📧 <b>Email:</b> arnavsince2009@gmail.com
 </p>
 
-<img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="100%" alt="When someone actually messages me">
+<img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="5rem" alt="When someone actually messages me">
 
 ---
 
@@ -58,7 +58,7 @@
 
 ---
 
-<h2>✨ Built with ❤️ by StackOrigin</h2>
+<h2 align="center">✨ Built with ❤️ by StackOrigin</h2>
 <p align="center">
   <b>May the code be with you!</b> 😎🚀
 </p>
