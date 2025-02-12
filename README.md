@@ -24,7 +24,7 @@
 <p>
   <b>💬 Discord:</b> <code>space_guy001</code> <br>
   📷 <b>Instagram:</b> <a href="https://www.instagram.com/not_arnav_burman">@not_arnav_burman</a> <br>
-  📧 <b>Email:</b> arnavsince2009@gmial.com
+  📧 <b>Email:</b> <code> arnavsince2009@gmail.com </code>
 </p>
 
 <h2>🌟 Top Languages</h2>
