@@ -30,12 +30,6 @@
   <a href="https://www.instagram.com/not_arnav_burman/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
-<h2>⚡ GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=space-guy01&show_icons=true&theme=dark" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=space-guy01&theme=dark" alt="GitHub Streak">
-</p>
-
 <h2>🌟 Top Languages</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=space-guy01&layout=compact&theme=dark" alt="Top Languages">
