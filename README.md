@@ -34,7 +34,7 @@
 
 <h2>📬 Contact Me</h2>
 <p>
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50px">  
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50px">  <br>
   <b>💬 Discord:</b> <code>space_guy01</code> <br>
   📷 <b>Instagram:</b> <a href="https://www.instagram.com/not_arnav_burman">@not_arnav_burman</a> <br>
   📧 <b>Email:</b> arnavsince2009@gmail.com
@@ -51,16 +51,9 @@
 
 ---
 
-<h2>🐍 Watch My Contribution Snake Grow!</h2>
-<p align="center">
-  <img src="https://github.com/space-guy01/space-guy01/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
-
----
-
 <h2>😂 Coding Mood</h2>
 <p align="center">
-  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="100%">
+  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="5rem">
 </p>
 
 ---
