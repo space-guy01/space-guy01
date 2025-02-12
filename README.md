@@ -6,8 +6,6 @@
   <b>Passionate Web Developer | Lifelong Learner | Problem Solver</b>
 </p>
 
-<hr>
-
 <h2>🚀 About Me</h2>
 <ul>
   <li>🎓 <b>Currently Learning:</b> JavaScript & React ⚛️</li>
@@ -22,15 +20,12 @@
   <li>🤝 <b>I love collaborating!</b> Feel free to reach out.</li>
 </ul>
 
-<hr>
 
 <h2>📬 Connect with Me</h2>
 <p align="center">
   <span style="font-size: 20px; font-weight: bold; color: #D14836; text-decoration: none;">📧 Email: arnavsince2009@gmail.com</span> <br><br>
   <a href="https://www.instagram.com/not_arnav_burman/" style="font-size: 20px; font-weight: bold; color: #E4405F; text-decoration: none;">📷 Instagram: @not_arnav_burman</a>
 </p>
-
-<hr>
 
 <h2>🌟 Top Languages</h2>
 <p align="center">
