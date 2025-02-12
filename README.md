@@ -11,14 +11,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=space-guy01&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=space-guy01&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
----
-
 ### 🚀 Projects & Contributions  
 - 🔹 **Check out my repositories:** [GitHub Repos](https://github.com/space-guy01?tab=repositories)  
 - 🔹 **I love collaborating!** Feel free to reach out  
