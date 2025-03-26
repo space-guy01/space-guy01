@@ -31,8 +31,6 @@
 
 ---
 
-
-<h2 align="center">✨ Built with ❤️ by StackOrigin</h2>
 <p align="center">
   <b>May the code be with you!</b> 😎🚀
 </p>
